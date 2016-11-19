@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-infsftp",
+  "version": "0.0.1",
+  "description": "cordova sftp plugin for ios",
+  "cordova": {
+    "id": "cordova-plugin-id-infsftp",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vml-rwt/infcordovasftp.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "vimal rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vml-rwt/infcordovasftp/issues"
+  },
+  "homepage": "https://github.com/vml-rwt/infcordovasftp#readme"
+}
